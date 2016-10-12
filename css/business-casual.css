@@ -102,6 +102,12 @@ hr {
     margin: 0 auto 0;
 }
 
+.img-right {
+    float: right;
+    margin: 80 auto 80;
+}
+
+
 footer {
     background: #fff;
     background: rgba(255,255,255,0.9);
