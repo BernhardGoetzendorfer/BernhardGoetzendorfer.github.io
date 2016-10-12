@@ -103,8 +103,8 @@ hr {
 }
 
 .img-right {
-    float: right;
-    margin: 80 auto 80;
+    float: left;
+    margin: 0 auto 0;
 }
 
 
